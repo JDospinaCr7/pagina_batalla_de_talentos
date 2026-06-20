@@ -1,4 +1,4 @@
-```javascript
+
 // CONTADORES
 
 const contadores = document.querySelectorAll(".contador");
@@ -73,4 +73,4 @@ document.getElementById("traducir").addEventListener("click", () => {
     }
 
 });
-```
+
