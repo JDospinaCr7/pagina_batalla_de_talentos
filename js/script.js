@@ -1,5 +1,5 @@
 
-// CONTADORES
+
 
 const contadores = document.querySelectorAll(".contador");
 
